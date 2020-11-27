@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/isolutionssrl/ISBets/_apis/build/status/DWH%20Test?branchName=master)](https://dev.azure.com/isolutionssrl/ISBets/_build/latest?definitionId=1349&branchName=master)
 
 # Contributing
 
